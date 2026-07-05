@@ -1,0 +1,24 @@
+{
+  "name": "john-skills",
+  "owner": {
+    "name": "John",
+    "email": "johnsh@ruc.dk"
+  },
+  "metadata": {
+    "description": "John's personal skill marketplace — one plugin bundling all of John's Claude Code skills so they install identically on every machine and account, and can be shared with teammates."
+  },
+  "plugins": [
+    {
+      "name": "john-skills",
+      "source": "./",
+      "description": "All of John's personal Claude Code skills (writing, engineering workflow, research, R helpers).",
+      "version": "1.0.0",
+      "author": {
+        "name": "John"
+      },
+      "license": "MIT",
+      "category": "workflow",
+      "tags": ["writing", "engineering", "research", "workflow"]
+    }
+  ]
+}

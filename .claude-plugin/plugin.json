@@ -1,0 +1,19 @@
+{
+  "name": "john-skills",
+  "version": "1.0.0",
+  "description": "John's personal Claude Code skill bundle — writing, engineering workflow (Matt Pocock set), research, and R/data-science helpers. Portable across machines and accounts.",
+  "author": {
+    "name": "John (johnsh@ruc.dk)"
+  },
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "engineering",
+    "workflow",
+    "research",
+    "tdd",
+    "code-review",
+    "triage"
+  ],
+  "skills": ["./skills/"]
+}
